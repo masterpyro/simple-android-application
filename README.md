@@ -1,4 +1,4 @@
 simple-android-application
 ==========================
 
-Build a Simple Android App
+Build a Simple Crystall Ball Android App.
